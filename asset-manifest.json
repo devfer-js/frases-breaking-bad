@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frases-breaking-bad/static/css/main.13734ac7.chunk.css",
+    "main.js": "/frases-breaking-bad/static/js/main.1ba4454f.chunk.js",
+    "main.js.map": "/frases-breaking-bad/static/js/main.1ba4454f.chunk.js.map",
+    "runtime-main.js": "/frases-breaking-bad/static/js/runtime-main.883e2dab.js",
+    "runtime-main.js.map": "/frases-breaking-bad/static/js/runtime-main.883e2dab.js.map",
+    "static/js/2.2d65e720.chunk.js": "/frases-breaking-bad/static/js/2.2d65e720.chunk.js",
+    "static/js/2.2d65e720.chunk.js.map": "/frases-breaking-bad/static/js/2.2d65e720.chunk.js.map",
+    "index.html": "/frases-breaking-bad/index.html",
+    "precache-manifest.c98614c2120f6e64c73474afa2a5274e.js": "/frases-breaking-bad/precache-manifest.c98614c2120f6e64c73474afa2a5274e.js",
+    "service-worker.js": "/frases-breaking-bad/service-worker.js",
+    "static/css/main.13734ac7.chunk.css.map": "/frases-breaking-bad/static/css/main.13734ac7.chunk.css.map",
+    "static/media/index.css": "/frases-breaking-bad/static/media/logo.427a4adc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.883e2dab.js",
+    "static/js/2.2d65e720.chunk.js",
+    "static/css/main.13734ac7.chunk.css",
+    "static/js/main.1ba4454f.chunk.js"
+  ]
+}
